@@ -13,25 +13,25 @@ The primary goal is to clearly define what the system should do (functional requ
 
 ## 📌 Key Activities in Requirement Analysis
 
-Requirement Gathering
+* Requirement Gathering
 
 Collecting needs from stakeholders using interviews, surveys, observation, questionnaires, brainstorming sessions, or workshops.
 
-Requirement Elicitation
+* Requirement Elicitation
 
 Digging deeper into the requirements to uncover hidden, conflicting, or unclear needs.
 
-Requirement Analysis & Prioritization
+* Requirement Analysis & Prioritization
 
 Reviewing requirements for feasibility, consistency, and prioritizing them based on importance and constraints (budget, time, resources).
 
-Requirement Documentation (SRS – Software Requirement Specification)
+* Requirement Documentation (SRS – Software Requirement Specification)
 
 Creating a formal document called the SRS that lists all functional and non-functional requirements.
 
 This serves as a blueprint for design, development, and testing teams.
 
-Requirement Validation
+* Requirement Validation
 
 Ensuring the documented requirements accurately reflect stakeholder needs and are complete, realistic, and testable.
 
@@ -51,27 +51,27 @@ Example: “The system should respond to user requests within 2 seconds.”
 
 ## 🌍 Importance of Requirement Analysis in SDLC
 
-Foundation for Development
+* Foundation for Development
 
 Provides a clear roadmap for developers, reducing ambiguity and misunderstandings.
 
-Reduces Rework and Costs
+* Reduces Rework and Costs
 
 Errors in requirements, if discovered later (in design or testing), are very expensive to fix. Proper analysis prevents costly mistakes.
 
-Improves Communication
+* Improves Communication
 
 Serves as a bridge between stakeholders and the technical team, ensuring everyone is on the same page.
 
-Ensures User Satisfaction
+* Ensures User Satisfaction
 
 Captures the actual needs of end-users, leading to a product that solves their problems effectively.
 
-Basis for Testing
+* Basis for Testing
 
 Test cases are designed based on the requirements. If requirements are unclear, testing will also be flawed.
 
-Supports Project Planning
+* Supports Project Planning
 
 Helps estimate time, cost, and resources needed for development.
 
