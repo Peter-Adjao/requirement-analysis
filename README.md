@@ -37,13 +37,13 @@ Ensuring the documented requirements accurately reflect stakeholder needs and ar
 
 ## 🏗️ Types of Requirements
 
-## Functional Requirements
+* Functional Requirements
 
 Describe what the system should do.
 
 Example: “The system must allow users to log in with a username and password.”
 
-## Non-Functional Requirements
+* Non-Functional Requirements
 
 Define how the system should perform.
 
