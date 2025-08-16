@@ -174,29 +174,6 @@ Use Case Diagrams are part of UML (Unified Modeling Language) used in **Requirem
 
 ---
 
-### Booking System Use Case Diagram  
-
-```mermaid
-%%{init: {'theme': 'default'}}%%
-usecaseDiagram
-    actor Customer
-    actor Admin
-    actor "Payment Gateway" as PG
-
-    Customer --> (Search Listings)
-    Customer --> (View Property Details)
-    Customer --> (Make Booking)
-    Customer --> (Cancel Booking)
-    Customer --> (Manage Profile)
-    Customer --> (Process Payment)
-
-    PG --> (Process Payment)
-
-    Admin --> (Manage Listings)
-    Admin --> (Generate Reports)
-    Admin --> (Manage Users)
-
-
 #### Conclusion
 
 Requirement Analysis is the cornerstone of successful software development. It ensures that software is built right the first time, aligns with stakeholder expectations, minimizes risks, and optimizes cost and time.
