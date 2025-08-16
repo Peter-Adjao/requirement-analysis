@@ -86,6 +86,80 @@ Non-Functional Requirement: The system should handle 10,000 concurrent users dur
 
 If these are not clearly analyzed and documented, developers might build a system that works for basic needs but fails under real-world conditions.
 
+## Key Activities in Requirement Analysis.
+*Some key activities in requirement analysis are:*
+### Requirement Gathering
+
+   * Definition: The initial step where requirements are collected from stakeholders (clients, users, managers, etc.).
+    
+   * Goal: Understand stakeholder expectations clearly.
+    
+   * Methods: Interviews, surveys, brainstorming, questionnaires.
+    
+   * Importance: Poor gathering leads to incomplete or unclear requirements.
+    
+   * Example: Asking users of an e-commerce site if they need product search, shopping cart, and order tracking.
+
+### Requirement Elicitation
+
+  * Definition: Goes beyond gathering by extracting hidden or unclear requirements.
+    
+  * Goal: Ensure no critical requirement is missed.
+    
+  * Methods: Workshops, prototyping, observation, role-playing.
+    
+  * Importance: Stakeholders may not always express what they really need.
+    
+  * Example: User says “fast login” → elicitation uncovers they actually want Google or Facebook login options.
+
+### Requirement Documentation
+
+  * Definition: Recording requirements in a structured format for reference.
+    
+  * Goal: Create a single source of truth for developers, testers, and stakeholders.
+    
+  * Deliverable: Software Requirement Specification (SRS), user stories, or backlog items.
+    
+  * Importance: Prevents miscommunication and scope creep.
+    
+  * Example: Documenting that “The system shall allow users to reset passwords via email.”
+
+### Requirement Analysis and Modeling
+
+  * Definition: Examining requirements for feasibility, consistency, and completeness, then modeling system behavior.
+    
+  * Goal: Ensure requirements are practical and achievable.
+    
+  * Techniques: Use-case diagrams, data flow diagrams (DFDs), UML models.
+    
+  * Importance: Helps identify conflicts or technical challenges early.
+    
+  * Example: Drawing a use-case diagram showing how a customer interacts with an online booking system.
+
+### Requirement Validation
+
+  * Definition: Checking that requirements truly reflect stakeholder needs.
+    
+  * Goal: Confirm correctness and alignment with business objectives.
+    
+  * Methods: Reviews, walkthroughs, stakeholder feedback, prototyping.
+    
+  * Importance: Catches mistakes early, reducing costly fixes later.
+    
+  * Example: Showing a working prototype of a booking system to stakeholders before coding begins.
+
+  ### In Summary:  
+
+   * Requirement Gathering → Collect what stakeholders want.
+    
+   * Requirement Elicitation → Uncover hidden/implicit needs.
+    
+   * Requirement Documentation → Record requirements clearly (SRS).
+    
+   * Requirement Analysis & Modeling → Check feasibility & model system behavior.
+    
+   * Requirement Validation → Confirm requirements are correct before coding.
+
 ### Conclusion
 
 Requirement Analysis is the cornerstone of successful software development. It ensures that software is built right the first time, aligns with stakeholder expectations, minimizes risks, and optimizes cost and time.
