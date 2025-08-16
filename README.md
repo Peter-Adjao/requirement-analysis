@@ -11,7 +11,7 @@ It involves gathering, analyzing, documenting, and validating the needs and expe
 
 The primary goal is to clearly define what the system should do (functional requirements) and how well it should perform (non-functional requirements), so developers can design and build a system that meets user needs.
 
-##📌 Key Activities in Requirement Analysis
+## 📌 Key Activities in Requirement Analysis
 
 Requirement Gathering
 
@@ -35,7 +35,7 @@ Requirement Validation
 
 Ensuring the documented requirements accurately reflect stakeholder needs and are complete, realistic, and testable.
 
-##🏗️ Types of Requirements
+## 🏗️ Types of Requirements
 
 ## Functional Requirements
 
@@ -43,13 +43,13 @@ Describe what the system should do.
 
 Example: “The system must allow users to log in with a username and password.”
 
-##Non-Functional Requirements
+## Non-Functional Requirements
 
 Define how the system should perform.
 
 Example: “The system should respond to user requests within 2 seconds.”
 
-##🌍 Importance of Requirement Analysis in SDLC
+## 🌍 Importance of Requirement Analysis in SDLC
 
 Foundation for Development
 
@@ -75,7 +75,7 @@ Supports Project Planning
 
 Helps estimate time, cost, and resources needed for development.
 
-##✅ Example in Practice
+## ✅ Example in Practice
 
 Imagine building an e-commerce website:
 
