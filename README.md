@@ -76,7 +76,7 @@ Test cases are designed based on the requirements. If requirements are unclear, 
 
 Helps estimate time, cost, and resources needed for development.
 
-## ✅ Example in Practice
+### ✅ Example in Practice
 
 Imagine building an e-commerce website:
 
