@@ -172,6 +172,10 @@ Use Case Diagrams are part of UML (Unified Modeling Language) used in **Requirem
 - Ensure that **requirements are captured correctly** before moving to design and development.  
 - Serve as a **blueprint for test case creation** during validation.  
 
+## Use Case Diagram
+![Use Case Diagram](assets/alx-booking-uc.png)
+
+
 ---
 
 #### Conclusion
