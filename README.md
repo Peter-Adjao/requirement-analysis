@@ -178,3 +178,31 @@ Use Case Diagrams are part of UML (Unified Modeling Language) used in **Requirem
 
 Requirement Analysis is the cornerstone of successful software development. It ensures that software is built right the first time, aligns with stakeholder expectations, minimizes risks, and optimizes cost and time.
 Without a thorough requirement analysis, projects are highly likely to face scope creep, budget overruns, delays, and dissatisfied users.
+
+## Acceptance Criteria  
+
+**Acceptance Criteria** are the conditions that a software product must satisfy to be accepted by the user, customer, or other stakeholders. They are written in clear, simple language and define the boundaries of a user story or requirement.  
+
+### Importance of Acceptance Criteria in Requirement Analysis  
+- **Clarity of Scope**: Clearly defines what is “done,” reducing ambiguity.  
+- **Alignment**: Ensures developers, testers, and stakeholders have the same understanding of a feature.  
+- **Testability**: Provides a basis for creating test cases and verifying functionality.  
+- **Quality Assurance**: Helps ensure the product meets user needs before release.  
+- **Traceability**: Links business needs with system functionality, aiding requirement validation.  
+
+### Example – Checkout Feature (Booking Management System)  
+
+**User Story**:  
+_As a customer, I want to complete my booking through a checkout process so that I can confirm my reservation and make payment._  
+
+**Acceptance Criteria:**  
+- ✅ The system should display a summary of selected booking details (dates, property, price, taxes).  
+- ✅ The customer should be able to select a payment method (credit card, PayPal, etc.).  
+- ✅ The system must validate payment details before processing.  
+- ✅ An error message should appear if payment fails or details are invalid.  
+- ✅ On successful payment, the system should generate a booking confirmation number.  
+- ✅ A confirmation email must be sent to the customer with booking details.  
+- ✅ The booking record should be stored in the system for future reference.  
+
+---
+
